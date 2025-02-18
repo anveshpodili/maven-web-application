@@ -86,7 +86,7 @@
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <name>Facebook Snapshot Nexus Repository</name>
+            <name>Facebook Snapshot Nexus Repositorys</name>
             <url>http://3.142.53.80:8081/repository/facebook-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>

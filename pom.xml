@@ -82,12 +82,12 @@
         <repository>
             <id>nexus</id>
             <name>Facebook Releases Nexus Repositorys </name>
-            <url>http://3.22.250.0:8081/repository/facebook-release/</url>
+            <url>http://3.16.75.183:8081/repository/facebook-release/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>Facebook Snapshot Nexus Repositorys</name>
-            <url>http://3.22.250.0:8081/repository/facebook-snapshot/</url>
+            <url>http://3.16.75.183:8081/repository/facebook-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
 
